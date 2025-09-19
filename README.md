@@ -22,7 +22,6 @@ Revenue by payment method (cash vs card).
 
 Average daily sales and sales trends over time.
 
-Visualized the results in interactive dashboards using Tableau.
 
  Tools
 
